@@ -22,5 +22,6 @@ By the end of the tutorial you will be able to do the following:
 
 ### Local Build
 - Clone GitHub with: ``` git clone https://github.com/JessDF/Angular-Basic-Web-App ```
-- I ran built mine in C9 and to do that run the following command:
+- I ran built mine in C9 and to do that run the following commands:
+    - ``` cd angular-tour-of-heros ```
     - ``` ng serve --host $IP --port $PORT --disable-host-check ```
